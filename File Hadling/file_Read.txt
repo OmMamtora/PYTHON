@@ -1,0 +1,5 @@
+Hello!!
+My name is Om
+
+How Are you?
+I am lerning python and this is file handling topic..
