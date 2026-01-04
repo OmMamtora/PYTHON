@@ -1,0 +1,2 @@
+This is Statement writes one line into file..
+This line also added in this file
