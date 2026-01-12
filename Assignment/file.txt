@@ -1,0 +1,3 @@
+Hello!
+How_are_you?
+We_are_learning_Python_and_we_are_performing_File_Handling
